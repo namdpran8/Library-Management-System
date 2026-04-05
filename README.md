@@ -20,11 +20,11 @@ A Command-Line Interface (CLI) based Library Management System built using Pytho
 
 ## 📂 Project Structure
 Library-Management-System/
-│
-├── main.py
-├── data.json
-├── book.json
-└── README.md
+
+- main.py → Main program file  
+- data.json → Stores user data  
+- book.json → Stores book records  
+- README.md → Project documentation  
 
 ## ▶️ How to Run
 1. Install Python
