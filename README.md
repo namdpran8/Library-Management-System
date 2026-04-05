@@ -57,12 +57,14 @@ It demonstrates core programming concepts like:
 
 ## 📂 Project Structure
 
+```bash
 Library-Management-System/
 │
 ├── main.py # Main application logic
 ├── data.json # Stores user data
 ├── book.json # Stores book records
 └── README.md # Project documentation
+```
 
 ---
 
@@ -83,6 +85,7 @@ python main.py
 
 ## 🧠 System Workflow
 
+```bash
 User → Create Account → Login → Access Features
                           ↓
           ┌───────────────┼───────────────┐
@@ -90,6 +93,7 @@ User → Create Account → Login → Access Features
      View Details     Issue Book     Return Book
                           ↓
                    Update Database (JSON)
+```
 
 ---
 
